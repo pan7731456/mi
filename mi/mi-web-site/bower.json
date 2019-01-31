@@ -1,0 +1,21 @@
+{
+  "name": "mi-web-site",
+  "authors": [
+    "张董丶 <778078163@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "4.7.0",
+    "jquery": "^3.3.1"
+  }
+}

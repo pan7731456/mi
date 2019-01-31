@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+html,body,.wrapper{width:100%; min-width:854px; height:100%;}
+body{background-color:#f9f9f9;}
+
+.wrapper{width:854px; min-height:680px; margin:0 auto; position:relative;}
+.wrapper .reg-area{width:100%; height:600px; background-color:#FFF; position:absolute; top:50%; margin-top:-340px; left:0; right:0;}
+.wrapper .reg-area .logo{padding-bottom:40px; display:block;}
+.wrapper .reg-area .logo a{width:49px; height:48px; display:block; background:url(../img/milogo.png) no-repeat; margin:0 auto;}
+.wrapper .reg-area .title{font-size:30px; font-weight:normal; color:#333; line-height:1.5; text-align:center;}
+.wrapper .reg-area .reg-box{width:332px; margin:0 auto; line-height:20px; padding:30px 0;}
+.wrapper .reg-area .reg-box h4{padding-bottom: 5px; color: #333; font-weight: normal; font-size:14px;}
+.wrapper .reg-area .reg-box .tip-text{margin-top: -10px; margin-bottom: 15px;}
+.wrapper .reg-area .reg-box input{height:40px; line-height:40px; padding:10px; color:#333; border:1px solid #e8e8e8; outline:none; width:100%; display:block; margin-bottom:15px;}
+.wrapper .reg-area .reg-box .tip{color:#f56600; line-height:20px;}
+.wrapper .reg-area .reg-box .tip .icon{background:url(../img/sprite_login.gif) no-repeat 0 -69px; width:14px; height:14px; margin:-1px 5px 0 0; display:inline-block; vertical-align:middle; overflow:hidden;}
+.wrapper .reg-area .reg-box button{background-color:#ef5b00; width:100%; height:50px; display:block; margin-top:10px; margin-bottom:14px; text-align:center; font-size:14px; color:#FFF; cursor:pointer; -webkit-appearance: none; appearance: none; border:0 none; outline:none;}
+.wrapper .reg-area .privacy-box{text-align:center; color:#9d9d9d;}
+.wrapper .reg-area .privacy-box a{font-weight:bold; color:#333;}
+
+footer{text-align:center; height:80px; position:absolute; left:0; right:0; bottom:0;}
+footer p{line-height:40px;}
+footer img{vertical-align:middle;}

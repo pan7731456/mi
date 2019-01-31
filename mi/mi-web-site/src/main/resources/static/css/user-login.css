@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+header{height:98px;}
+
+.login-wrapper{height:588px; background:url(../img/login-bg.jpeg) no-repeat top center;}
+.login-wrapper .container{position:relative;}
+.login-wrapper .login-box{width:410px; height:524px; background:#FFF; position:absolute; top:32px; right:0;}
+.login-wrapper .login-box .login-tabs{padding:27px 0 24px; text-align:center; font-size:24px; color:#e0e0e0;}
+.login-wrapper .login-box .login-tabs a{color:#666;}
+.login-wrapper .login-box .login-tabs a.active{color:#f56600;}
+.login-wrapper .login-box .login-tabs span{width:1px; height:24px; margin:0 35px 0 42px; border:1px solid #e0e0e0;}
+.login-wrapper .login-box .login-area{width:348px; margin:0 auto;}
+.login-wrapper .login-box .login-area input{height:50px; line-height:50px; padding:13px 16px 13px 14px; display:block; background:0; color:#333; width:100%; margin-bottom:14px; border:1px solid #e0e0e0; outline:none;}
+.login-wrapper .login-box .login-area .tip{color:#f56600; line-height:20px;}
+.login-wrapper .login-box .login-area .tip .icon{background:url(../img/sprite_login.gif) no-repeat 0 -69px; width:14px; height:14px; margin:-1px 5px 0 0; display:inline-block; vertical-align:middle; overflow:hidden;}
+.login-wrapper .login-box .login-area button{background-color:#ef5b00; width:100%; height:50px; display:block; margin-top:10px; margin-bottom:14px; text-align:center; font-size:14px; color:#FFF; cursor:pointer; -webkit-appearance: none; appearance: none; border:0 none; outline:none;}
+.login-wrapper .login-box .login-area .other{margin-top:-5px;}
+.login-wrapper .login-box .login-area .other .sms-link{color:#ef5b00; font-size:14px; float:left;}
+.login-wrapper .login-box .login-area .other .other-link{float:right;}
+.login-wrapper .login-box .login-area .other .other-link a{color:#999; font-size:14px;}
+.login-wrapper .login-box .login-area .other .other-link a:hover{color:#f56600;}
+.login-wrapper .login-box .login-area .other .other-link span{padding-left:5px;}
+.login-wrapper .login-box .other-login-type{position:absolute; left:31px; right:31px; bottom:37px;}
+.login-wrapper .login-box .other-login-type fieldset{border:0; border-top:1px solid #e0e0e0; padding-top:10px; padding-bottom:10px\9;}
+.login-wrapper .login-box .other-login-type fieldset legend{color:#bbb; font-size:14px; margin:0 auto; text-align:center; width:100% \9;}
+.login-wrapper .login-box .other-login-type .links{text-align:center;}
+.login-wrapper .login-box .other-login-type a{margin:0 17px; width:30px; height:30px; display:inline-block; border-radius:50%;}
+.login-wrapper .login-box .other-login-type a i{background:url(../img/icons_type.png) no-repeat; display:block; margin:4px auto 0; width:18px; height:18px; vertical-align:middle;}
+.login-wrapper .login-box .other-login-type a.qq{background-color:#0288d1;}
+.login-wrapper .login-box .other-login-type a.qq i{background-position:-19px 0;}
+.login-wrapper .login-box .other-login-type a.weibo{background-color:#d32f2f;}
+.login-wrapper .login-box .other-login-type a.weibo i{background-position:-38px 0;}
+.login-wrapper .login-box .other-login-type a.alipay{background-color:#0ae;}
+.login-wrapper .login-box .other-login-type a.alipay i{background-position:-57px 0;}
+.login-wrapper .login-box .other-login-type a.wechat{background-color:#00d20d;}
+.login-wrapper .login-box .other-login-type a.wechat i{background-position:-83px 0;}
+
+footer{padding:80px 0; text-align:center;}
+footer p{padding:10px 0;}
+footer img{vertical-align:middle;}

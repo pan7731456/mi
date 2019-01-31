@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/* 底部服务 */
+.site-footer .footer-service{padding:27px 0; border-bottom:1px solid #e0e0e0;}
+.site-footer .list-service li{float:left; width:19.8%; height:25px; font-size:16px; line-height:25px; border-left:1px solid #e0e0e0; text-align:center;}
+.site-footer .list-service li.first{border:0;}
+.site-footer .footer-links{padding:40px 0;}
+.site-footer .footer-links dl{float:left; width:160px; height:112px;}
+.site-footer .footer-links dl dt{margin:-1px 0 26px; font-size:14px; line-height:1.25; color:#424242;}
+.site-footer .footer-links dl dd{margin:10px 0 0; font-size:12px;}
+.site-footer .footer-links a{color:#757575;}
+.site-footer .footer-links a:hover{color:#ff6700;}
+.site-footer .footer-links .contact{float:right; width:251px; height:112px; border-left:1px solid #e0e0e0; color:#616161; text-align:center;}
+.site-footer .footer-links .contact .phone{margin: 0 0 5px; font-size: 22px; line-height: 1; color: #ff6700;}
+.site-footer .footer-links .contact p{margin: 0 0 16px; font-size: 12px;}
+.site-footer .footer-links .contact a{color:#ff6700;}
+
+/* 站点信息 */
+.site-info{padding: 30px 0; font-size: 12px; background: #fafafa;}
+.site-info .logo{float: left; width: 57px; height: 57px; margin-right: 10px; background: url(../img/logo-footer.png) no-repeat 50% 50%;}
+.site-info .info-text{float: left; color: #b0b0b0;}
+.site-info .info-text p{margin: 0; line-height: 18px;}
+.site-info .info-text .sites a{color:#757575; float:left;}
+.site-info .info-text .sites .split{margin: 0 .25em; font-family: sans-serif; float:left;}
+.site-info .info-text a{color:#b0b0b0;}
+.site-info .info-links{float: right; height: 28px; margin: 4px 0 0;}
+.site-info .info-links img{width: auto; height: 28px; margin-left: 0;}
+.site-info .slogan{clear: both; margin: 30px auto 0; width: 267px; height: 19px; background: url(../img/slogan2016.png) no-repeat center 0;}

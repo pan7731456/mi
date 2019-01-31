@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mi/mi.iml" filepath="$PROJECT_DIR$/mi/mi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mi-core/mi-core.iml" filepath="$PROJECT_DIR$/mi-core/mi-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mi-util/mi-util.iml" filepath="$PROJECT_DIR$/mi-util/mi-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mi-web-admin/mi-web-admin.iml" filepath="$PROJECT_DIR$/mi-web-admin/mi-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mi-web-api/mi-web-api.iml" filepath="$PROJECT_DIR$/mi-web-api/mi-web-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mi-web-site/mi-web-site.iml" filepath="$PROJECT_DIR$/mi-web-site/mi-web-site.iml" />
+    </modules>
+  </component>
+</project>
